@@ -5,7 +5,7 @@ A modern, responsive portfolio website showcasing my expertise in cybersecurity,
 
 ## 🚀 Live Demo
 
-[View Portfolio Online](https://your-username.github.io/portfolio) *(Replace with your actual GitHub Pages URL)*
+[View Portfolio Online](https://juggnernaut.github.io/my-portfolio)
 
 ## 📋 Features
 
@@ -104,7 +104,7 @@ portfolio/
        "predeploy": "npm run build",
        "deploy": "gh-pages -d build"
      },
-     "homepage": "https://your-username.github.io/portfolio"
+     "homepage": "https://juggnernaut.github.io/my-portfolio"
    }
    ```
 
