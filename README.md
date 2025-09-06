@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mahmoud Alkattan - Cybersecurity Professional Portfolio
 
 A modern, responsive portfolio website showcasing my expertise in cybersecurity, networking, and information security. Built with React, TypeScript, and TailwindCSS.
@@ -201,3 +202,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ---
 
 **Made with ❤️ by Mahmoud Alkattan**
+=======
+# my-portfolio
+>>>>>>> 6da09a6c6a9d5c0a9d77d3f23d12bb34cdd1b198
